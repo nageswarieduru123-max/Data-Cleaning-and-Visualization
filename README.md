@@ -24,3 +24,9 @@ This project demonstrates data cleaning and visualization using Python.
 
 ## Outcome
 Successfully cleaned the dataset and generated meaningful insights using visualizations.
+## Author
+
+**Nageswari Eduru**
+
+- B.Tech (CSE)
+- GitHub: https://github.com/nageswarieduru123-max
