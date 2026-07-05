@@ -24,6 +24,18 @@ This project demonstrates data cleaning and visualization using Python.
 
 ## Outcome
 Successfully cleaned the dataset and generated meaningful insights using visualizations.
+## Project Structure
+- README.md
+- data_cleaning.py
+- requirements.txt
+- sample_dataset.csv
+- project_report.pdf
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python data_cleaning.py
 ## Author
 
 **Nageswari Eduru**
